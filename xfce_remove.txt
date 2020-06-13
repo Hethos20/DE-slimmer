@@ -1,0 +1,5 @@
+gnome-sudoku
+sgt-launcher
+sgt-puzzles
+gnome-mines
+pidgin
