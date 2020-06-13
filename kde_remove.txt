@@ -1,0 +1,4 @@
+konsole
+kde-spectacle
+dolphin
+kate
